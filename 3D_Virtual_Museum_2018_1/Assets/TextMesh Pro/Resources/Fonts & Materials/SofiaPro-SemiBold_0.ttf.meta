@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 65c7b7ddb8e144e4ca3f81505ef1c3a7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sofia Pro
+  fontNames:
+  - Sofia Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 23274f07c4d12734897ec4c8cd3e2591, type: 3}
+  - {fileID: 12800000, guid: 02ca867a960630d4298c54f6f1d1f621, type: 3}
+  - {fileID: 12800000, guid: 61906bfd12a0c834eb1c7311e688f6b4, type: 3}
+  - {fileID: 12800000, guid: 4e95d21e5782b00438c3c52d6de5c945, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
