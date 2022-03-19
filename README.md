@@ -1,3 +1,3 @@
 # Virtual_Computer_Science_History_Museum
 <h1> Daily Updates</h1>
-<iframe src="https://embednotion.com/embed/hxvtzvps"></iframe>  <style>  iframe { width: 100%; height: 500px; border: 2px solid #ccc; border-radius: 10px; padding: none; }  </style>
+https://purple-vise-360.notion.site/ThesiShit-66e4eebca04b4b8fae8f60d53fcae724
